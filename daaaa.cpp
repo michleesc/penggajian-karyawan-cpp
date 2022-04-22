@@ -197,7 +197,7 @@ void searching()
 }
 
 
-int main()
+int main(int argc,char **argv)
 {
 	
 	int pil;
